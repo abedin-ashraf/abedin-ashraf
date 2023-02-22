@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently doing a bachelor's degree in Computer Information Systems<br>🌱 I’m currently learning Java, Python, Artificial Intelligence, Machine Learning and Data Science<br>👯 I’m looking to collaborate on projects in Java, Python, and Machine Learning<br>🤝 I’m looking for help with making software from scratch with Java and Python<br>💬 Ask me about Microsoft Access, Exc<br>😄 Pronouns: He/Him<br>⚡ Fun fact: My dream vacation would be in California
+🔭 I’m currently doing a bachelor's degree in Computer Information Systems<br>🌱 I’m currently learning Java, Python, Artificial Intelligence, Machine Learning and Data Science<br>👯 I’m looking to collaborate on projects in Java, Python, and Machine Learning<br>🤝 I’m looking for help with making software from scratch with Java and Python<br>💬 Ask me about Microsoft Access, Excel <br>⚡ Fun fact: My dream vacation would be in California
 
 
 ## 🌐 Socials:
