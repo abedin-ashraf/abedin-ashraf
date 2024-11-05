@@ -33,14 +33,14 @@ I'm currently studying Computer Information Systems at [Southeast Missouri State
 
 ### You can also find me on ...
 <a href="https://www.linkedin.com/in/abedin-ashraf/" title="abedin-ashraf" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/abedin_ashraf10" target="_blank" title="abedin_ashraf10" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://x.com/abedin_ashraf07" target="_blank" title="abedin_ashraf10" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="mailto:nurulabedinashraf@gmail.com" target="_blank" title="nurulabedinashraf@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
 
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abedin-ashraf&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abedin-ashraf&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abedin-ashraf&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+#![](https://github-readme-stats.vercel.app/api/top-langs/?username=abedin-ashraf&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
